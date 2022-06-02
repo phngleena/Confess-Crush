@@ -8,10 +8,9 @@ const CONFIG = {
     btnYes: 'Phương Linh số 1 💕',
     btnNo: 'hok bé uiiii',
     question: 'tớ bíc cậu cũng iu tớ mà',
-    btnReply: 'Gửi',
-    reply: '',
+    btnReply: 'Bỏ qua',
+    
     mess: 'hok nói nhìu, nói chung là cậu iu tớ',
     messDesc: 'tớ cũng iu cậu hihi 🙆‍♀️',
     btnAccept: 'oki iu cậu ',
-    messLink: 'https://github.com/zukahai/Confess-Crush' //link mess của các bạn. VD: https://www.facebook.com/messages/t/100014188333536
-}
+  
